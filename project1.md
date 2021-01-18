@@ -5,19 +5,16 @@ let's add some animals in the list...
 
 Yellow 
 
-giraffe
 
 pink
 
-lion
 
 red
 
-liger
 
 cyan
 
-elephant
+tiger
 
 and maaaaany others...
 

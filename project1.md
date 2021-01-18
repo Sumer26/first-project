@@ -1,7 +1,11 @@
 # Hello
 This is a new project for git tutorial.
 Yellow 
+
 pink
-red 
+
+red
+
 cyan
+
 among us is an imposter.
